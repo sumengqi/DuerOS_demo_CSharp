@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\bin\Debug\语音交互.exe.config
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\bin\Debug\语音交互.exe
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\bin\Debug\语音交互.pdb
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\bin\Debug\NAudio.dll
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\obj\Debug\dueros.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\obj\Debug\dueros.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\obj\Debug\语音交互.Form1.resources
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\obj\Debug\语音交互.Properties.Resources.resources
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\obj\Debug\dueros.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\obj\Debug\语音交互.exe
+C:\Users\admin\Documents\visual studio 2013\Projects\dueros\语音交互\obj\Debug\语音交互.pdb

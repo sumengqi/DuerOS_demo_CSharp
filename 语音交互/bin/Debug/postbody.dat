@@ -1,0 +1,52 @@
+----879622951
+Content-Disposition: form-data; name="metadata"
+Content-Type: application/json; charset=UTF-8
+
+{
+  "event": {
+    "header": {
+      "namespace": "ai.dueros.device_interface.voice_input",
+      "name": "ListenStarted",
+      "messageId": "wp1500954400174",
+      "dialogRequestId": "wp1500954400174"
+    },
+    "payload": {
+      "format": "AUDIO_L16_RATE_16000_CHANNELS_1"
+    }
+  },
+  "clientContext": [
+    {
+      "header": {
+        "namespace": "ai.dueros.device_interface.audio_player",
+        "name": "PlaybackState"
+      },
+      "payload": {
+        "playerActivity": "IDLE"
+      }
+    },
+    {
+      "header": {
+        "namespace": "ai.dueros.device_interface.voice_input",
+        "name": "ListenState"
+      },
+      "payload": {
+        "wakeword": "xiaodu"
+      }
+    },
+    {
+      "header": {
+        "namespace": "ai.dueros.device_interface.voice_output",
+        "name": "SpeechState"
+      },
+      "payload": {
+        "offsetInMilliseconds": 0,
+        "playerActivity": "IDLE"
+      }
+    }
+  ]
+}
+
+----879622951
+Content-Disposition: form-data; name="audio"
+Content-Type: application/octet-stream
+
